@@ -3,7 +3,7 @@
   "short_name": "fluvia",
   "theme_color": "#fc9413",
   "background_color": "#002978",
-  "display": "standalone",
+  "display": "fullscreen",
   "scope": "/",
   "start_url": "/inbel/index.html",
   "icons": [
