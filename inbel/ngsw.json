@@ -31,7 +31,9 @@
         "inbel/assets/icons/apple-touch-icon-72x72.png",
         "inbel/assets/icons/apple-touch-icon-76x76.png",
         "inbel/assets/icons/favicon-16x16.png",
+        "inbel/assets/icons/favicon-192x192.png",
         "inbel/assets/icons/favicon-32x32.png",
+        "inbel/assets/icons/favicon-512x512.png",
         "inbel/assets/icons/logo.svg"
       ],
       "patterns": []
@@ -49,7 +51,9 @@
     "inbel/assets/icons/apple-touch-icon-72x72.png": "cab83b2ced1a17a634b7449e8bf6db10ad17fee9",
     "inbel/assets/icons/apple-touch-icon-76x76.png": "2053fdd28ca7e44390d2901b14a86b4bb3d648b9",
     "inbel/assets/icons/favicon-16x16.png": "9628ae52ec0194a6919ee5d1450026bd9ca65f09",
+    "inbel/assets/icons/favicon-192x192.png": "804935722c75d96b629b96f09a8670f84ffd6723",
     "inbel/assets/icons/favicon-32x32.png": "3b8365072767571579b149446905c372751c5096",
+    "inbel/assets/icons/favicon-512x512.png": "00d17cbe14231d8d18fe0ed1a8dcb1ad32a97872",
     "inbel/assets/icons/logo.svg": "705323a26e397b36640a94fdf69f83d77e191673",
     "inbel/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "inbel/index.html": "4d79133bc0f31a4d6a5be1de1c1ef236d8b8ce97",
