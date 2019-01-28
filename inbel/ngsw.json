@@ -9,7 +9,7 @@
       "urls": [
         "inbel/favicon.ico",
         "inbel/index.html",
-        "inbel/main.2088372b62ca08829499.js",
+        "inbel/main.bf803b126417b560eafb.js",
         "inbel/polyfills.ae52b230d73d9c9d87fc.js",
         "inbel/runtime.b57bf819d5bdce77f1c7.js",
         "inbel/styles.0023e4dd5ff17c4899e7.css"
@@ -52,8 +52,8 @@
     "inbel/assets/icons/favicon-32x32.png": "3b8365072767571579b149446905c372751c5096",
     "inbel/assets/icons/logo.svg": "705323a26e397b36640a94fdf69f83d77e191673",
     "inbel/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "inbel/index.html": "bca7b730f790155610d0e286d91bb0494ef409a4",
-    "inbel/main.2088372b62ca08829499.js": "900d8745c5db771c4a9860e492061d1b4c0c6fef",
+    "inbel/index.html": "4d79133bc0f31a4d6a5be1de1c1ef236d8b8ce97",
+    "inbel/main.bf803b126417b560eafb.js": "cdbd422cc131355e74a0c31b7f533ebfba839e67",
     "inbel/polyfills.ae52b230d73d9c9d87fc.js": "5b14d88aabd17ec6fa713740d074cd13b37d81a8",
     "inbel/runtime.b57bf819d5bdce77f1c7.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "inbel/styles.0023e4dd5ff17c4899e7.css": "1c5d79e731e03890fcf6e86aa987c0439ed5db89"
