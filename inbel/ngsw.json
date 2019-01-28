@@ -1,0 +1,79 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.51922093048d06e34543.js",
+        "/polyfills.ae52b230d73d9c9d87fc.js",
+        "/runtime.b57bf819d5bdce77f1c7.js",
+        "/styles.0023e4dd5ff17c4899e7.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/apple-touch-icon-114x114.png",
+        "/assets/icons/apple-touch-icon-120x120.png",
+        "/assets/icons/apple-touch-icon-144x144.png",
+        "/assets/icons/apple-touch-icon-152x152.png",
+        "/assets/icons/apple-touch-icon-180x180.png",
+        "/assets/icons/apple-touch-icon-57x57.png",
+        "/assets/icons/apple-touch-icon-60x60.png",
+        "/assets/icons/apple-touch-icon-72x72.png",
+        "/assets/icons/apple-touch-icon-76x76.png",
+        "/assets/icons/favicon-16x16.png",
+        "/assets/icons/favicon-32x32.png",
+        "/assets/icons/logo.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/apple-touch-icon-114x114.png": "5d403b1a5e02c7b0fc1d9eb22b16d468777e6911",
+    "/assets/icons/apple-touch-icon-120x120.png": "56d9954e519f2ca61725843fab26e4e04b1c0772",
+    "/assets/icons/apple-touch-icon-144x144.png": "8bf1fd098a285a5739a89a6293e7d51f49cf3fc1",
+    "/assets/icons/apple-touch-icon-152x152.png": "f7878007d6f05d1bd75c42e865df685dced51ea2",
+    "/assets/icons/apple-touch-icon-180x180.png": "1eedf854cca3418b60ac2e037f9eef36c653d6b8",
+    "/assets/icons/apple-touch-icon-57x57.png": "5a50d45dc0071710f855aa7a783dbba6c47b1648",
+    "/assets/icons/apple-touch-icon-60x60.png": "0318a127a22dd49b667f2fbdbd326ff21afff12b",
+    "/assets/icons/apple-touch-icon-72x72.png": "cab83b2ced1a17a634b7449e8bf6db10ad17fee9",
+    "/assets/icons/apple-touch-icon-76x76.png": "2053fdd28ca7e44390d2901b14a86b4bb3d648b9",
+    "/assets/icons/favicon-16x16.png": "9628ae52ec0194a6919ee5d1450026bd9ca65f09",
+    "/assets/icons/favicon-32x32.png": "3b8365072767571579b149446905c372751c5096",
+    "/assets/icons/logo.svg": "705323a26e397b36640a94fdf69f83d77e191673",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "8fb768b11f0ebf7f608c97194ac21f4ea5c61154",
+    "/main.51922093048d06e34543.js": "f2a2e759e1d597d992ad9858e4c2cb8c9237d689",
+    "/polyfills.ae52b230d73d9c9d87fc.js": "5b14d88aabd17ec6fa713740d074cd13b37d81a8",
+    "/runtime.b57bf819d5bdce77f1c7.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.0023e4dd5ff17c4899e7.css": "1c5d79e731e03890fcf6e86aa987c0439ed5db89"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
