@@ -5,7 +5,7 @@
   "background_color": "#002978",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "/inbel/index.html",
   "routing": {
     "index": "/index.html",
     "routes": {
