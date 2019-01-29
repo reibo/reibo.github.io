@@ -5,18 +5,7 @@
   "background_color": "#002978",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/inbel/index.html",
-  "routing": {
-    "index": "/inbel/index.html",
-    "routes": {
-      "/": {
-        "prefix": false
-      },
-      "/inbel": {
-        "prefix": false
-      }
-    }
-  },
+  "start_url": "/inbel/index.html", 
   "icons": [
     {
       "src": "/inbel/assets/icons/favicon-32x32.png",
