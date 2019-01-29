@@ -7,7 +7,7 @@
   "scope": "/",
   "start_url": "/inbel",
   "routing": {
-    "index": "/index.html",
+    "index": "/inbel/index.html",
     "routes": {
       "/": {
         "prefix": false
