@@ -5,7 +5,15 @@
   "background_color": "#002978",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/inbel/index.html",
+  "start_url": "/",
+  "routing": {
+    "index": "/index.html",
+    "routes": {
+      "/": {
+        "prefix": false
+      }
+    }
+  },
   "icons": [
     {
       "src": "/inbel/assets/icons/favicon-32x32.png",
