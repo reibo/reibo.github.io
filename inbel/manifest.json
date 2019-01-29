@@ -5,11 +5,14 @@
   "background_color": "#002978",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/inbel",
+  "start_url": "/inbel/index.html",
   "routing": {
     "index": "/inbel/index.html",
     "routes": {
       "/": {
+        "prefix": false
+      },
+      "/inbel": {
         "prefix": false
       }
     }
