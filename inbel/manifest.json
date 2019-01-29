@@ -6,6 +6,7 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/inbel/index.html", 
+  "orientation":"portrait",
   "icons": [
     {
       "src": "/inbel/assets/icons/favicon-32x32.png",
