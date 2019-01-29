@@ -1,7 +1,7 @@
 {
   "name": "fluvia-/inbel",
-  "short_name": "fluvia",
-  "theme_color": "#fc9413",
+  "short_name": "fluvia inbel",
+  "theme_color": "#fdc450",
   "background_color": "#002978",
   "display": "standalone",
   "scope": "/",
